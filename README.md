@@ -3,7 +3,7 @@ This project provides a complete analytical view of the Asia Cup 2025 using ball
 
 🔧 Tech Stack
 
-Power BI – dashboarding, visualization, KPI modeling ; R – data cleaning, statistical modeling, randomForest, tidyverse
+Power BI – dashboarding, visualization, KPI modeling (.csv files are use); R – data cleaning, statistical modeling, randomForest, tidyverse
 ; MySQL – data storage, querying, transformations
 
 📊 Key Features
