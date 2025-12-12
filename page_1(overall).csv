@@ -1,0 +1,39 @@
+Match_id,Team_name,Total_runs_scored,Total_runs_given,Total_wickets_taken,Total_wickets_loss,Total_extraruns_Conceded,Total_extraruns_Received,Total_Run_out_Inflicted,Total_Run_out_Conceded
+1,"Hong Kong",94,188,6,9,10,10,0,2
+1,Afghanistan,188,94,9,6,10,10,2,0
+2,India,60,57,10,1,2,3,0,0
+2,"United Arab Emirates",57,60,1,10,3,2,0,0
+3,Bangladesh,144,143,7,3,14,17,1,0
+3,"Hong Kong",143,144,3,7,17,14,0,1
+4,Oman,67,160,7,10,4,3,0,1
+4,Pakistan,160,67,10,7,3,4,1,0
+5,"Sri Lanka",140,139,5,4,11,21,1,0
+5,Bangladesh,139,140,4,5,21,11,0,1
+6,India,131,127,9,3,5,2,0,0
+6,Pakistan,127,131,3,9,2,5,0,0
+7,Oman,130,172,5,10,9,16,1,1
+7,"United Arab Emirates",172,130,10,5,16,9,1,1
+8,"Sri Lanka",153,149,4,6,13,2,0,1
+8,"Hong Kong",149,153,6,4,2,13,1,0
+9,Afghanistan,146,154,5,10,2,3,0,1
+9,Bangladesh,154,146,10,5,3,2,1,0
+10,"United Arab Emirates",105,146,9,10,13,11,1,2
+10,Pakistan,146,105,10,9,11,13,2,1
+11,"Sri Lanka",171,169,8,4,7,16,1,0
+11,Afghanistan,169,171,4,8,16,7,0,1
+12,Oman,167,188,8,4,13,7,2,0
+12,India,188,167,4,8,7,13,0,2
+13,Bangladesh,169,168,7,6,3,3,1,0
+13,"Sri Lanka",168,169,6,7,3,3,0,1
+14,India,174,171,5,4,9,3,1,0
+14,Pakistan,171,174,4,5,3,9,0,1
+15,Pakistan,138,133,8,5,7,7,0,0
+15,"Sri Lanka",133,138,5,8,7,7,0,0
+16,Bangladesh,127,168,6,10,4,9,1,1
+16,India,168,127,10,6,9,4,1,1
+17,Bangladesh,124,135,8,9,4,3,0,0
+17,Pakistan,135,124,9,8,3,4,0,0
+18,"Sri Lanka",202,202,5,5,14,5,0,0
+18,India,202,202,5,5,5,14,0,0
+19,India,150,146,10,5,7,2,0,0
+19,Pakistan,146,150,5,10,2,7,0,0
